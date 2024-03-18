@@ -1,11 +1,9 @@
-# UX Portfolio
+# Dexter's UX Portfolio 
 
-About me...
+![profile picture](assets/profilepicture.jpg)
 
-## UX Team Project
-
-Coming soon.
+Hello I’m Dexter, welcome to my example UX portfolio! Here, you’ll find some blog entries that discuss issues of usability and user eXperience.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Replace with title of journal](j01/README.md)
