@@ -6,4 +6,4 @@ Hello I’m Dexter, welcome to my example UX portfolio! Here, you’ll find some
 
 ## UX Journal
 
-[Replace with title of journal](j01/README.md)
+[First Entry Entry](j01/README.md)
