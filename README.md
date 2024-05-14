@@ -8,4 +8,4 @@ Hello I’m Dexter, welcome to my example UX portfolio! Here, you’ll find some
 
 [Deploying Containers](j01/README.md)
 
-[Deploying Containers (Revision)](j02/README.md)
+[Deploying Containers Revision](j02/README.md)
