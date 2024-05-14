@@ -7,3 +7,5 @@ Hello I’m Dexter, welcome to my example UX portfolio! Here, you’ll find some
 ## UX Journal
 
 [Deploying Containers](j01/README.md)
+
+[Deploying Containers](j02/README.md)
